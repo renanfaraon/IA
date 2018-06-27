@@ -1,0 +1,9 @@
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\bin\Debug\IA_Aprendizagem_reforco.exe.config
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\bin\Debug\IA_Aprendizagem_reforco.exe
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\bin\Debug\IA_Aprendizagem_reforco.pdb
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\obj\Debug\IA_Aprendizagem_reforco.csprojResolveAssemblyReference.cache
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\obj\Debug\IA_Aprendizagem_reforco.Properties.Resources.resources
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\obj\Debug\IA_Aprendizagem_reforco.csproj.GenerateResource.Cache
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\obj\Debug\IA_Aprendizagem_reforco.csproj.CoreCompileInputs.cache
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\obj\Debug\IA_Aprendizagem_reforco.exe
+C:\Users\rfaraon\source\repos\IA_Aprendizagem_reforco\IA_Aprendizagem_reforco\obj\Debug\IA_Aprendizagem_reforco.pdb
